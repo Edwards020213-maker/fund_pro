@@ -5,3 +5,5 @@ akshare
 tqdm
 lxml
 beautifulsoup4
+matplotlib
+streamlit_local_storage
